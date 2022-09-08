@@ -21,3 +21,4 @@ Replaced all characters A and c from input to Z and e respectively.
 Created a script that removes all letters c and C from input.
 Wrote a script that reverse its input.
 Wrote script that displays all users and their home directories, sorted by users.
+Wrote a command that finds all empty files and directories in the current directory and all sub-directories.
