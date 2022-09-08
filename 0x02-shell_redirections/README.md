@@ -20,4 +20,4 @@ Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 Replaced all characters A and c from input to Z and e respectively.
 Created a script that removes all letters c and C from input.
 Wrote a script that reverse its input.
-
+Wrote script that displays all users and their home directories, sorted by users.
