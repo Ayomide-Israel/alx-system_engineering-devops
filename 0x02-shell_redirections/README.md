@@ -19,3 +19,5 @@ Displays all the lines in the file /etc/passwd that do not contain the pattern â
 Displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 Replaced all characters A and c from input to Z and e respectively.
 Created a script that removes all letters c and C from input.
+Wrote a script that reverse its input.
+
